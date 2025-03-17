@@ -1,0 +1,18 @@
+{
+  "author": "Hugh G Reckshun",
+  "genre": "Fantacy",
+  "publicationYear": 1942
+}
+
+{
+  "id": "3",
+  "title": "Skibidi toilet",
+  "details": [
+    {
+      "id": "1",
+      "author": "Kumelala Sylvester",
+      "genre": "TikTok",
+      "publicationYear": 2021
+    }
+  ]
+}
